@@ -1,2 +1,3 @@
 # to-do-listt
-daily  list preparation
+daily  list preparation with PYTHON
+
